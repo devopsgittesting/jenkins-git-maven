@@ -7,7 +7,7 @@
       <parameters>
         <param name="buildSettings" value="PREFER_VCS" />
         <param name="enabled" value="true" />
-        <param name="rootId" value="JenkinsGitMaven_HttpsGithubComDevopsgittestingJenkinsGitMavenGitRefsHeadsMain" />
+        <param name="rootId" value="JenkinsGitMaven_HttpsGithubComDevopsgittestingJenkinsGitMavenGit" />
         <param name="showChanges" value="false" />
       </parameters>
     </extension>

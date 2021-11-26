@@ -23,7 +23,7 @@
       </runner>
     </build-runners>
     <vcs-settings>
-      <vcs-entry-ref root-id="JenkinsGitMaven_HttpsGithubComDevopsgittestingJenkinsGitMavenGitRefsHeadsMain" />
+      <vcs-entry-ref root-id="JenkinsGitMaven_HttpsGithubComDevopsgittestingJenkinsGitMavenGit" />
     </vcs-settings>
     <requirements />
     <build-triggers>
